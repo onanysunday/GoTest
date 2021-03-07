@@ -1,5 +1,5 @@
 package numba
 
 func Num() int {
-	return 7
+	return 8
 }
